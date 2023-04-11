@@ -1,0 +1,38 @@
+html {
+  position: relative;
+}
+
+body {
+  color: rgba(0, 0, 0, 0.6);
+  font-family: Helvetica, Arial, sans-serif;
+  @apply bg-slate-50 overflow-x-hidden overflow-y-scroll
+}
+
+* {
+  -webkit-user-drag: none;
+}
+
+.dark body {
+  background-color: #121212;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.text-link {
+  @apply font-semibold dark:text-violet-500
+}
+
+.text-dark {
+  color: rgba(0, 0, 0, 0.6)
+}
+
+.text-light {
+  color: rgba(255, 255, 255, 0.6)
+}
+
+.dark .text-high-emp, .text-light .text-high-emp, .text-light.text-high-emp {
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.dark .text-disabled {
+  color: rgba(255, 255, 255, 0.38);
+}

@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'Material Symbols Rounded';
+  font-style: normal;
+  src: url('~/assets/fonts/MaterialSymbolsRounded[FILL,GRAD,opsz,wght].woff2') format('woff');
+}
+
+.material-symbols {
+  font-family: 'Material Symbols Rounded';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  font-variation-settings: 'FILL' 1
+}
+
+/* Rules for sizing the icon. */
+.material-symbols.md-18 { font-size: 18px; }
+.material-symbols.md-24 { font-size: 24px; }
+.material-symbols.md-36 { font-size: 36px; }
+.material-symbols.md-48 { font-size: 48px; }
+
+/* Rules for using icons as black on a light background. */
+.material-symbols.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-symbols.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+/* Rules for using icons as white on a dark background. */
+.material-symbols.md-light { color: rgba(255, 255, 255, 1); }
+.material-symbols.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
+
+.layout-container {
+  @apply container mx-auto py-14 px-4 sm:px-6 md:px-20 lg:px-40 xl:px-60 2xl:px-80
+  overflow-hidden
+}
+
+.text-high-emp {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.text-disabled {
+  color: rgba(0, 0, 0, 0.38);
+}
+
+.overlay-1dp {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.overlay-2dp {
+  background-color: rgba(255, 255, 255, 0.07);
+}
+
+.overlay-3dp {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.overlay-4dp {
+  background-color: rgba(255, 255, 255, 0.09);
+}
+
+.overlay-6dp {
+  background-color: rgba(255, 255, 255, 0.11);
+}
+
+.overlay-8dp {
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+.overlay-12dp {
+  background-color: rgba(255, 255, 255, 0.14);
+}
+
+.overlay-16dp {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.overlay-24dp {
+  background-color: rgba(255, 255, 255, 0.16);
+}

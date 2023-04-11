@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "author": {
+    "name": "Pablo E. L. Targino",
+    "email": "pabloeltdev@pm.me",
+    "url": "https://pabloufrn.github.io"
+  },
+  "name": "playmytime",
+  "description": "A web based music player",
+  "homepage": "https://pabloeltdev.github.io/playmytime",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@kevinmarrec/nuxt-pwa": "^0.17.0",
+    "@nuxtjs/color-mode": "^3.2.0",
+    "@nuxtjs/tailwindcss": "^6.4.1",
+    "@tailwindcss/forms": "^0.5.3",
+    "@types/wicg-file-system-access": "^2020.9.5",
+    "nuxt": "^3.2.2",
+    "vite-plugin-node-polyfills": "^0.7.0"
+  },
+  "dependencies": {
+    "dexie": "^3.2.3",
+    "m3u8-parser": "^6.0.0",
+    "music-metadata-browser": "^2.5.9",
+    "vue-draggable-next": "^2.1.1"
+  }
+}
