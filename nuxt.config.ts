@@ -19,6 +19,9 @@ export default defineNuxtConfig({
     classSuffix: '',
     fallback: 'dark',
   },
+  experimental: {
+    payloadExtraction: false,
+  },
   app: {
     baseURL: '/playmytime/',
     head: {
