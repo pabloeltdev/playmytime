@@ -4,7 +4,7 @@
       <img src="~/assets/img/logo_light.png">
     </div>
     <div class="presentation">
-      <h2>Welcome to <span class="title">Play My Time</span> music player!</h2>
+      <h2 class="text-high-emp">Welcome to <span class="title">Play My Time</span> music player!</h2>
       <hr>
       <div v-if="itRuns">
         <span>
@@ -30,8 +30,6 @@
 </template>
 
 <script lang="ts" setup>
-import { it } from 'node:test';
-
 definePageMeta({
   layout: 'clean',
 })
@@ -41,20 +39,24 @@ const colorMode = useColorMode()
 
 <style scoped>
 hr {
-  @apply mt-4 mb-6 border-gray-100 dark:border-gray-900 border-opacity-30
+  @apply mt-4 mb-6 border-gray-300 dark:border-gray-900 border-opacity-30
 }
-.title {
-  @apply text-violet-500
+.presentation .title {
+  @apply text-violet-800 font-medium dark:text-violet-500
 }
 .logotipo {
   @apply flex justify-center
 }
 .logotipo img {
-  @apply h-20
+  @apply w-72
 }
 .presentation {
   @apply bg-gray-100 dark:bg-gray-900 
-  bg-opacity-30 dark:bg-opacity-50
-  mt-12 p-8 rounded-md 
+  bg-opacity-50 dark:bg-opacity-50
+  mt-12 p-8 rounded-md
+}
+.presentation span {
+  @apply text-black text-opacity-80
+  dark:text-white dark:text-opacity-60
 }
 </style>

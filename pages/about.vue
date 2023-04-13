@@ -18,9 +18,10 @@ const colorMode = useColorMode()
       could use on my own way, in the form I would like.
     </p>
     <p>
-      That's why I created this music player. I choosed the library 
-      <a class="text-link" href="https://vuejs.org">Vue.js</a> and the framework 
-      <a class="text-link" href="https://nuxt.com/">Nuxt</a> and make a PWA. The player works
+      That's why I created this music player. I choosed the frameworks 
+      <a class="text-link" href="https://vuejs.org">Vue.js</a> and 
+      <a class="text-link" href="https://nuxt.com/">Nuxt</a> to make a 
+      PWA (with some limitations). The player works
       entirely offline and strongly relies on the 
       <a class="text-link" href="https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API">
         File System Access API</a>.
