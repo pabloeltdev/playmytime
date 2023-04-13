@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1600px"
+   height="800px"
+   viewBox="0 0 1600 800"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logo-full-dark-v2.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="C:\Users\pabloelt\Documents\Workspaces\musicplayer\assets\img\logo_dark.png"
+   inkscape:export-xdpi="58.047237"
+   inkscape:export-ydpi="58.047237"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25859"
+     pagecolor="#e1e1e1"
+     bordercolor="#999999"
+     borderopacity="1.0"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.18456896"
+     inkscape:cx="1037.5526"
+     inkscape:cy="214.01216"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9950" />
+  <defs
+     id="defs25854" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g963"
+       transform="translate(0,8.9960373)">
+      <g
+         id="g25621-4"
+         transform="matrix(2.5967868,0,0,2.6187691,-1093.593,-758.29126)"
+         inkscape:label="icon">
+        <circle
+           style="fill:#7c3aed;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path11738-8"
+           cx="515.05139"
+           cy="445.97153"
+           r="73.482025"
+           inkscape:export-filename="C:\Users\pabloelt\Documents\Workspaces\icon.png"
+           inkscape:export-xdpi="7.6799998"
+           inkscape:export-ydpi="7.6799998"
+           inkscape:label="head" />
+        <g
+           id="g24792-2"
+           transform="translate(0.27763176)"
+           style="stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:label="headset">
+          <path
+             id="path24247-4"
+             style="fill:none;fill-opacity:1;stroke:#7c3aed;stroke-width:6.732;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 514.95764,361.14844 A 82.208237,82.208237 0 0 0 435.04163,424.9707 H 595.06116 A 82.208237,82.208237 0 0 0 514.95764,361.14844 Z" />
+          <rect
+             style="fill:#7c3aed;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+             id="rect20172-8"
+             width="25.455845"
+             height="50.91169"
+             x="576.29205"
+             y="417.54654"
+             rx="12.020815"
+             ry="12.020815" />
+          <rect
+             style="fill:#7c3aed;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+             id="rect24788-2"
+             width="25.455845"
+             height="50.91169"
+             x="427.79962"
+             y="417.54654"
+             rx="12.020815"
+             ry="12.020815" />
+        </g>
+        <g
+           id="g1217"
+           inkscape:label="play">
+          <path
+             sodipodi:type="star"
+             style="fill:#ffffff;fill-opacity:0.941176;stroke:#fdf3ff;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+             id="path12442-4"
+             inkscape:flatsided="true"
+             sodipodi:sides="3"
+             sodipodi:cx="509.00537"
+             sodipodi:cy="449.46188"
+             sodipodi:r1="31.289722"
+             sodipodi:r2="15.644861"
+             sodipodi:arg1="0"
+             sodipodi:arg2="1.0471976"
+             inkscape:rounded="1.73472e-17"
+             inkscape:randomized="0"
+             d="m 540.29509,449.46188 -46.93458,27.0977 v -54.19539 z"
+             inkscape:transform-center-x="-10.85257"
+             inkscape:transform-center-y="2.9777548e-05"
+             transform="matrix(1.3873582,0,0,1.3928114,-192.11986,-180.0441)"
+             inkscape:label="icon" />
+          <ellipse
+             style="fill:#7c3aed;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+             id="path18276-2"
+             cx="513.83105"
+             cy="445.97153"
+             rx="7.6043267"
+             ry="7.6042624"
+             inkscape:label="ball" />
+          <rect
+             style="fill:#7c3aed;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+             id="rect19758-9"
+             width="72.144272"
+             height="7.2016101"
+             x="488.2059"
+             y="442.40594"
+             inkscape:label="bar" />
+        </g>
+      </g>
+      <g
+         id="g9950"
+         transform="matrix(1.2068308,0,0,1.2068308,-144.75882,50.317267)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:139.511px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.48777"
+           x="583.80518"
+           y="240.88792"
+           id="text33089"><tspan
+             sodipodi:role="line"
+             x="583.80518"
+             y="240.88792"
+             id="tspan33087"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:3.48777;fill:#000000">Play My Time</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:99.0985px;line-height:1.25;font-family:sans-serif;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.47746"
+           x="860.02289"
+           y="402.53622"
+           id="text33093"><tspan
+             sodipodi:role="line"
+             x="860.02289"
+             y="402.53622"
+             id="tspan33091"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#4d4d4d;stroke-width:2.47746">Music player</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
