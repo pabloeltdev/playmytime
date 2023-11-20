@@ -100,9 +100,12 @@ onMounted(() => {
   mediaSession.setActionHandler('previoustrack', skipBack)
   mediaSession.setActionHandler('play', togglePlay)
   mediaSession.setActionHandler('pause', togglePlay)
-  window.addEventListener('keypress', (evt: KeyboardEvent) =>
-    evt.code === 'Space' && togglePlay()
-  )
+  window.addEventListener('keypress', (evt: KeyboardEvent) => {
+    if (evt.code === 'Space') {
+      evt.preventDefault()
+      togglePlay()
+    }
+  })
   if (playing.value) audio.value!.src = playing.value.mediaUrl!
 })
 </script>
