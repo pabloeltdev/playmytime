@@ -25,7 +25,7 @@ defineProps<{
         how to create your own playlist
       </p>
       <Button>
-        <a href="/playlists/playlist.m3u" download>Download playlist</a>
+        <a href="/files/playlist.m3u" download>Download playlist</a>
       </Button>
     </div>
   </Modal>
