@@ -25,7 +25,7 @@ defineProps<{
         how to create your own playlist
       </p>
       <Button>
-        <a href="/files/playlist.zip" download>Download playlist</a>
+        <NuxtLink to="/files/playlist.zip" external>Download playlist</NuxtLink>
       </Button>
     </div>
   </Modal>
